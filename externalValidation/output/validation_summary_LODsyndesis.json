@@ -1,0 +1,156 @@
+{
+    "0": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+            "predicate": "http://dbpedia.org/ontology/birthPlace",
+            "object": "http://dbpedia.org/resource/Heraklion"
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://dbpedia.org/ontology/birthPlace",
+                "object": "http://dbpedia.org/resource/Heraklion",
+                "provenance": "http://dbpedia.org/",
+                "type": "Same or Equivalent Triple",
+                "similarity": 1.0,
+                "status": "VALIDATED"
+            }
+        }
+    },
+    "1": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+            "predicate": "place",
+            "object": "http://dbpedia.org/resource/Heraklion"
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://schema.org/birthPlace",
+                "object": "http://dbpedia.org/resource/Heraklion",
+                "provenance": "http://www.wikidata.org/",
+                "type": "Same or Equivalent Triple",
+                "similarity": 1.0,
+                "status": "VALIDATED"
+            }
+        }
+    },
+    "2": {
+        "fact": {
+            "subject": "http://www.wikidata.org/entity/Q214622",
+            "predicate": "http://schema.org/nationality",
+            "object": "\"Greece\" ."
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://www.wikidata.org/entity/Q214622",
+                "predicate": "http://schema.org/nationality",
+                "object": "http://ee.dbpedia.org/resource/Greece",
+                "provenance": "http://www.wikidata.org/",
+                "type": "Same or Equivalent Triple",
+                "similarity": 1.0,
+                "status": "VALIDATED"
+            }
+        }
+    },
+    "3": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+            "predicate": "http://dbpedia.org/ontology/profession",
+            "object": "http://dbpedia.org/resource/Footballer"
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                "object": "http://umbel.org/umbel/rc/PersonWithOccupation",
+                "provenance": "http://dbpedia.org/current",
+                "type": "Most Similar Triples",
+                "similarity": 0.37295347,
+                "status": "NOT VALIDATED"
+            },
+            "top2": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                "object": "http://xmlns.com/foaf/0.1/Person",
+                "provenance": "http://dbpedia.org/current",
+                "type": "Most Similar Triples",
+                "similarity": 0.3016655,
+                "status": "NOT VALIDATED"
+            },
+            "top3": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                "object": "http://schema.org/Person",
+                "provenance": "http://dbpedia.org/current",
+                "type": "Most Similar Triples",
+                "similarity": 0.3016655,
+                "status": "NOT VALIDATED"
+            }
+        }
+    },
+    "4": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Nikos_Zisis",
+            "predicate": "http://dbpedia.org/ontology/birthYear",
+            "object": "\"1983\" ."
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://dbpedia.org/resource/Nikos_Zisis",
+                "predicate": "http://dbpedia.org/ontology/birthYear",
+                "object": "\"1983-08-16\"",
+                "provenance": "http://dbpedia.org/,http://www.wikidata.org/",
+                "type": "Same Predicate - Different Object",
+                "similarity": 0.87015116,
+                "status": "VALIDATED"
+            }
+        }
+    },
+    "5": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Michalis_Mountantonakis",
+            "predicate": "http://dbpedia.org/ontology/birth",
+            "object": "\"1992\" ."
+        },
+        "topK_KG_facts": {},
+        "type": "Entity Not Found",
+        "status": "NOT VALIDATED"
+    },
+    "6": {
+        "fact": {
+            "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+            "predicate": "http://dbpedia.org/ontology/profession",
+            "object": "http://dbpedia.org/resource/Writer"
+        },
+        "topK_KG_facts": {
+            "top1": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://yago-knowledge.org/resource/infobox/en/type",
+                "object": "\"writer\"",
+                "provenance": "http://yago-knowledge.org",
+                "type": "Most Similar Triples",
+                "similarity": 0.7515949,
+                "status": "VALIDATED"
+            },
+            "top2": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://www.wikidata.org/entity/P101c",
+                "object": "http://dbpedia.org/ontology/Writer",
+                "provenance": "http://www.wikidata.org/",
+                "type": "Most Similar Triples",
+                "similarity": 0.74736017,
+                "status": "VALIDATED"
+            },
+            "top3": {
+                "subject": "http://dbpedia.org/resource/Nikos_Kazantzakis",
+                "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                "object": "http://dbpedia.org/ontology/Writer",
+                "provenance": "http://dbpedia.org/current",
+                "type": "Most Similar Triples",
+                "similarity": 0.67004657,
+                "status": "VALIDATED"
+            }
+        }
+    }
+}

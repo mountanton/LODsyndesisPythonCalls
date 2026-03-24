@@ -1,0 +1,678 @@
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q4964182> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/PersonWithOccupation> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Philosopher> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Aristotelianism> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Commentaries_on_Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sw.cyc.com/concept/Mx4rvViJoJwpEbGdrcN5Y29ycA> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Aristotle_384_BC-322_BC> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/268271999> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/297401150> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://yago-knowledge.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/118650130> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.0gz_> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q868> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://de.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://es.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/Aristotele> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://nl.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://pl.dbpedia.org/resource/Arystoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://tr.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://commons.dbpedia.org/resource/Aristotelēs> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://fr.dbpedia.org/resource/Aristote> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://da.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://he.dbpedia.org/resource/אריסטו> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://hu.dbpedia.org/resource/Arisztotelész> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ja.dbpedia.org/resource/アリストテレス> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://pt.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ro.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ru.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://zh.dbpedia.org/resource/亚里士多德> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sv.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://vi.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://be.dbpedia.org/resource/Арыстоцель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://el.dbpedia.org/resource/Αριστοτέλης> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://id.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ko.dbpedia.org/resource/아리스토텔레스> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ca.dbpedia.org/resource/Aristòtil> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://et.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/1089841086> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/1089911343> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/1154623858> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/119609738> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://musicbrainz.org/artist/2f96bf3c-ca56-4c20-a374-4b846056c5e6> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/151158790748638852826> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/4255159477984827990006> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/605144647705519704282> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/72206945> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/7524651> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://data.bibliotheken.nl/id/thes/p068519435> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://af.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://als.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://am.dbpedia.org/resource/አሪስጣጣሊስ> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://an.dbpedia.org/resource/Aristótil> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ar.dbpedia.org/resource/أرسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://arz.dbpedia.org/resource/اريسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ast.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://az.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://azb.dbpedia.org/resource/ارسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ba.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://bg.dbpedia.org/resource/Аристотел> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://bn.dbpedia.org/resource/এরিস্টটল> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://br.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://bs.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ceb.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ckb.dbpedia.org/resource/ئەرەستوو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://cs.dbpedia.org/resource/Aristotelés> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://cv.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://cy.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://eo.dbpedia.org/resource/Aristotelo> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://eu.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://fa.dbpedia.org/resource/ارسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://fi.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://fo.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://fy.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ga.dbpedia.org/resource/Arastatal> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://gd.dbpedia.org/resource/Aristotelis> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://gl.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://gu.dbpedia.org/resource/એરિસ્ટોટલ> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://hi.dbpedia.org/resource/अरस्तु> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://hr.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ht.dbpedia.org/resource/Aristòt> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://hy.dbpedia.org/resource/Արիստոտել> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ia.dbpedia.org/resource/Aristotele> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://io.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://is.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://jv.dbpedia.org/resource/Aristotélès> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ka.dbpedia.org/resource/არისტოტელე> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://kk.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://kn.dbpedia.org/resource/ಅರಿಸ್ಟಾಟಲ್‌> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ku.dbpedia.org/resource/Arîstotelês> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ky.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://la.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://lb.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://li.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://lmo.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://lt.dbpedia.org/resource/Aristotelis> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://lv.dbpedia.org/resource/Aristotelis> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mg.dbpedia.org/resource/Aristôty> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://min.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mk.dbpedia.org/resource/Аристотел> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ml.dbpedia.org/resource/അരിസ്റ്റോട്ടിൽ> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mn.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mr.dbpedia.org/resource/ॲरिस्टॉटल> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mrj.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ms.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://my.dbpedia.org/resource/အရစ္စတိုတယ်> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://mzn.dbpedia.org/resource/ارسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://nah.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://nds.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ne.dbpedia.org/resource/अरस्तू> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://new.dbpedia.org/resource/एरिस्टोटल> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://nn.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://no.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://oc.dbpedia.org/resource/Aristòtel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://or.dbpedia.org/resource/ଆରିଷ୍ଟୋଟଲ> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://os.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://pa.dbpedia.org/resource/ਅਰਸਤੂ> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://pms.dbpedia.org/resource/Aristòtil> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://pnb.dbpedia.org/resource/ارسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://qu.dbpedia.org/resource/Aristotelis> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sa.dbpedia.org/resource/अरिस्टाटल्> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sah.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://scn.dbpedia.org/resource/Aristòtili> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sco.dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sh.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://si.dbpedia.org/resource/ඇරිස්ටෝටල්> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://simple.dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sk.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sl.dbpedia.org/resource/Aristotel> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sq.dbpedia.org/resource/Aristoteli> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sr.dbpedia.org/resource/Аристотел> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://su.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://sw.dbpedia.org/resource/Aristoteli> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ta.dbpedia.org/resource/அரிசுட்டாட்டில்> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://te.dbpedia.org/resource/అరిస్టాటిల్> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://tg.dbpedia.org/resource/Арасту> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://th.dbpedia.org/resource/แอริสตอเติล> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://tl.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://tt.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://uk.dbpedia.org/resource/Арістотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ur.dbpedia.org/resource/ارسطو> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://uz.dbpedia.org/resource/Arastu> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://vec.dbpedia.org/resource/Aristotele> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://vo.dbpedia.org/resource/Aristoteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://wa.dbpedia.org/resource/Aristote> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://war.dbpedia.org/resource/Aristóteles> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://yi.dbpedia.org/resource/אריסטא> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://yo.dbpedia.org/resource/Aristotulu> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <http://ce.dbpedia.org/resource/Аристотель> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2002/07/owl#sameAs> <https://global.dbpedia.org/id/52SD7> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/name> "Aristotle" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Арістотель" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotle" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristòtil" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "أرسطو" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotelés" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Αριστοτέλης" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotelo" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristote" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristóteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Arastatal" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "アリストテレス" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristotele" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "아리스토텔레스" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristóteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Arystoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Aristoteles" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Аристотель" .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "亚里士多德" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Chalcis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Euboea> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Macedonia_(ancient_kingdom)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Chalcis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Euboea> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Macedonia_(ancient_kingdom)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chalcidian_League> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stagira_(ancient_city)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Chalcidian_League> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Stagira_(ancient_city)> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:384_BC_births> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Characters_in_the_Divine_Comedy> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophical_logic> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Peripatetic_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Logicians> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_ancient_Chalcidice> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_education> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_law> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Social_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_technology> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_psychology> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:4th-century_BC_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Acting_theorists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_political_refugees> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Stagirites> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Aristotelian_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Attic_Greek_writers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Greek_geologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophy_academics> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_logicians> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_and_tutors_of_Alexander_the_Great> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:322_BC_deaths> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Aphorists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_physicists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Metic_philosophers_in_Classical_Athens> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_history> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_culture> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:4th-century_BC_Greek_writers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Zoologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_science> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Humor_researchers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Irony_theorists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Trope_theorists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Virtue_ethicists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_biologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_literary_critics> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Greek_meteorologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_literature> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_time> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Aristotelianism> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Natural_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ontologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Rhetoric_theorists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_sexuality> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_epistemologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_ethicists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_metaphysicians> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_philosophers_of_art> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_philosophers_of_language> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_philosophers_of_mind> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_political_philosophers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:4th-century_BC_Greek_mathematicians> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Classical_theism> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ancient_Greek_cosmologists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophical_theists> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Greek_male_writers> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Philosophers_of_logic> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Students_of_Plato> .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Natural_law_ethicists> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "давньогрецький науковець, енциклопедист, філософ і логік, засновник класичної (формальної) логіки" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Klassieke Griekse filosoof en polimaat (384-322 vC)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "forngrískur heimspekingur og vísindamaður (384 – 322 f.Kr.)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "nhà bác học người Hy Lạp cổ đại (384-322 TCN)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "4th-century BCE Classical Greek philosopher and polymath" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Antik Yunan filozofu (MÖ 384–322)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Filozof grek" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Filòsof grec" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "פילוסוף יווני, תלמיד של אפלטון ומייסד הפילוסופיה המערבית." .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Griyegong pilosopo (384–322 BCE)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "古典希臘哲學家，柏拉圖學生和西方哲學的創始人" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Klasiko a Griego a pilosopo" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "고대 그리스의 철학자이자 알렉산더 대왕의 스승" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "klasični grški filozof in polihistor (384–322 pr. n. št.)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "antiikin kreikkalainen filosofi" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "antik græsk filosof (384-322 fvt)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "antički grčki filozof" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "athronydd" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Qədim yunan filosofu, klassik yunan fəlsəfəsinin Sokrat və Platondan sonra üçüncü nümayəndəsi" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "europäische Philosophe" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "fealsamh agus ileolaí Gréagach (384–322 RC)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filosof al Greciei Antice" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filosofo e scienziato greco antico" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filosoof uit het oude Athene (383v Chr-321v Chr)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filozofo" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filsuf Yunani Kuno" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filósofo e polímata grego do século IV a.C." .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filósofo griego" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "fîlozofê yewnanî" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "grekisk filosof och vetenskapsman" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "greziako filosofoa" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "griichesche Philosoph" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "helena filozofo" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "प्रचीन यूनानी दार्शनिक (384 ईपू – 322 ईपू)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "klassischer griechischer Philosoph" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "pilsup Yunani" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "staroveký grécky filozof" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "starořecký filozof" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "starożytny filozof grecki" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "yunon faylasufi" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "philosophe grec de l'Antiquité (384-322 av. J.-C.)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Graikų filosofas, tyrinėtojas. Kartu su Sokratu ir Platonu yra laikomas įtakingiausiu mąstytoju Vakarų filosofijos istorijoje." .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filsuf Yunani Kuno, murid Plato, dan pionir filsafat Barat" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "filósofo grego, un dos maiores pensadores de todos os tempos" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "ग्रीक दार्शनिक, प्लेटो को विद्यार्थी र पश्चिमी दर्शन को संस्थापक" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "นักปรัชญาและนักปราชญ์ชาวกรีกคลาสสิก (384-322 ปีก่อนคริสตกาล)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "ókori görög filozófus és tudós" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "গ্রিক দার্শনিক ও বিজ্ঞানী" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "ūtƿita on Crēcum" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "philosophus Graecus, discipulus Platonis, magister Alexandri Magni" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Classical Greek philosopher and polymath (384-322 BC)" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Αρχαίος Έλληνας φιλόσοφος" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "Грекийн сонгодог философич" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "класични грчки филозоф" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "فيلسوف يوناني" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "فیلسوف یونانی" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "فەیلەسووفی یۆنانی" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "यूनानी दार्शनिक" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "গ্ৰীক দাৰ্শনিক" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "උපත" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "古代ギリシアの哲学者" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "古希臘哲學家" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "старажытнагрэчаскі філосаф" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "𐌺𐍂𐌴𐌺𐍃 𐌷𐌰𐌽𐌳𐌿𐌲𐍃" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "древнегреческий философ, ученик Платона" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/description> "ꯑꯔꯤꯕ ꯒ꯭ꯔꯤꯛꯀꯤ ꯋꯥꯡꯎꯂꯣꯟ ꯈꯪꯕ ꯃꯤ" .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/homepage> <http://Britannica.com> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/homepage> <http://classics.mit.edu> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://globalwordnet.org/ili/i94320> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/name> "Aristotle" .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/(Venice)_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/161Theophrastus_161_frontespizio.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/20160518_092_mieza_nympheum.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aerial_image_of_Stromboli_(view_from_the_northeast).jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_and_Aristotle.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristoteles_Louvre.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotelian_Soul.png> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotelis_De_Moribus_ad_Nicomachum.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle's_Four_Causes_of_a_Table.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle's_constitutions.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle's_laws_of_motion.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Senses_Perception_Memory_Dreams_Action.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_by_Jusepe_de_Ribera.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_in_Nuremberg_Chronicle.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Biblioteka_Marciana,_Aristotel.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Bénigne_Gagneraux,_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/DSC00218_-_Aristotele_-_Copia_romana_del_117-138_dC._-_Foto_di_G._Dall'Orto.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/FMIB_46109_Foetal_Picked_Dogfish,_with_the_ovum_attached_(no_label).jpeg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flute-player_dolphin_Alcesti_Group_MAN.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Formella_21,_platone_e_aristotele_o_la_filosofia,_luca_della_robbia,_1437-1439.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Four_Classical_Elements_in_Burning_Log.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Gent,_Justus_van_-_Aristotle_-_c._1476.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Ibn_Bakhtīshūʿ,_Kitāb_naʿt_al-ḥayawān_probably_Baghdad,_c._1225._London,_British_Library,_Or._2784,_A_student_sitting_with_Aristotle_(right).jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Jakob_Dorner_d_Ä_(attr)_Aristoteles.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/John_Argyropoulos,_Preface_to_Aristotle’s_Physics.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Llyfrgell_Sant_Deiniol_and_Gladstone's_Library_Hawarden_Penarlâg_05.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Cranach_d.Ä._-_Phyllis_und_Aristotle_(1530).jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Modus_Barbara_Equations.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Philosophenmosaik_köln_Aristoteles.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Platonic_and_Aristotelian_Forms.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Sanzio_01_Plato_Aristotle.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Tremoctopus_violaceus5.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Turchi-AristoteIMG_1713.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Two_of_Aristotle's_Growth_Laws.svg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Uni_Freiburg_-_Philosophen_4.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Universal_manual_of_ready_reference_-_antiquities,_history,_geography,_biography,_government,_law,_politics,_industry,_invention,_science,_religion,_literature,_art,_education_and_miscellany_(1904)_(14590266027).jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/William_Harvey_(_1578-1657)_Venenbild.jpg> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthYear> "-384" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathYear> "-322" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Ancient_Greek_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aesthetics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Ethics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Logic> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Metaphysics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Physis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Politics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Rhetoric> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Accident_(philosophy)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aether_(classical_element)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotelian_ethics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotelian_logic> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotelian_physics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotelianism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotle's_biology> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotle's_theory_of_universals> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotle's_views_on_women> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Catharsis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Classical_element> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Common_sense> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Deliberative_rhetoric> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Enthymeme> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Epideictic> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Episteme> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Essence> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Eternity_of_the_world> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Family_as_a_model_for_the_state> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Five_wits> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Forensic_rhetoric> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Four_causes> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Genus–differentia_definition> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Golden_mean_(philosophy)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Horror_vacui_(physics)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Hylomorphism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Hypokeimenon> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Intellectual_virtue> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Logos> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Magnanimity> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Mimesis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Modes_of_persuasion> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Natural_slavery> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Nous> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Paradeigma> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Pathos> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Phronesis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Potentiality_and_actuality> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Rational_animal> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Social_cycle_theory> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Substance_theory> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Syllogism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Techne> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Unmoved_mover> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/philosophicalSchool> <http://dbpedia.org/resource/Peripatetic_school> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle_Altemps_Inv8575.jpg?width=300> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/b> "no" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/birthDate> "384" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/deathDate> "322" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/deathDate> "" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/education> <http://dbpedia.org/resource/Platonic_Academy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/era> <http://dbpedia.org/resource/Ancient_Greek_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/label> "Aristotle" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/mainInterests> "* Logic
+* Natural philosophy
+* Metaphysics
+* Ethics
+* Politics
+* Rhetoric
+* Poetics" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/n> "no" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/nativeNameLang> "el" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Accident_(philosophy)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aether_(classical_element)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotelian_ethics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotelian_logic> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotelian_physics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotelianism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotle's_biology> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotle's_theory_of_universals> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Aristotle's_views_on_women> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Catharsis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Classical_element> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Common_sense> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Essence> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Eternity_of_the_world> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Family_as_a_model_for_the_state> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Five_wits> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Four_causes> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Genus–differentia_definition> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Golden_mean_(philosophy)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Hylomorphism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Hypokeimenon> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Logos> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Magnanimity> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Mimesis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Modes_of_persuasion> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Natural_slavery> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Pathos> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Potentiality_and_actuality> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Rational_animal> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Social_cycle_theory> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Substance_theory> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Syllogism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Unmoved_mover> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> <http://dbpedia.org/resource/Ethos> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> "" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> "Horror vacui" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> "Intellectual virtues: sophia, episteme, nous, phronesis, techne" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> "Deliberative, epideictic and forensic rhetoric" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableIdeas> "Enthymeme and Paradeigma" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableStudents> <http://dbpedia.org/resource/Alexander_the_Great> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableStudents> <http://dbpedia.org/resource/Theophrastus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableStudents> <http://dbpedia.org/resource/Aristoxenus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/notableWorks> "* Organon
+* Physics
+* Metaphysics
+* Nicomachean Ethics
+* Politics
+* Rhetoric
+* Poetics" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/others> "yes" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/ref> "none" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/s> "Author:Aristotle" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/schoolTradition> <http://dbpedia.org/resource/Peripatetic_school> .
+<http://dbpedia.org/resource/Aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/Aristotle?oldid=1312223846&ns=0> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/caption> "Roman copy  of a Greek bronze bust of Aristotle by Lysippos , with modern alabaster mantle" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/date> "2017-03-27" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/date> "2022-11-24" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/url> <https://web.archive.org/web/20170327012857/http:/www.focusing.org/aristotle/> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/url> <https://web.archive.org/web/20221124034819/http:/isnature.org/Files/Aristotle/> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/about> "yes" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/by> "yes" .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/onlinebooks> "yes" .
+<http://dbpedia.org/resource/Aristotle> <http://purl.org/linguistics/gold/hypernym> <http://dbpedia.org/resource/Philosopher> .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Aristotle> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/wordnet_type> <http://www.w3.org/2006/03/wn/wn20/instances/synset-philosopher-noun-1> .
+<http://dbpedia.org/resource/Aristotle> <http://schema.org/sameAs> <http://viaf.org/viaf/268271999> .
+<http://dbpedia.org/resource/Phaleas_of_Chalcedon> <http://dbpedia.org/property/influenced> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gustav_Teichmüller> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Christine_Korsgaard> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Nel_Noddings> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Richard_Gaskin> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Charles_De_Koninck> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Jerome> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Karl_Polanyi> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gustavo_Bueno> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Niccolò_Cabeo> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Giuseppe_Biancani> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Charles_Taylor_(philosopher)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Jakob_Schegk> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Marshall_McLuhan> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Michael_Sandel> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ibn_Tufayl> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Lenn_E._Goodman> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Joseph_Owens_(Redemptorist)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Paolo_Casati> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Thomas_à_Kempis> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Henry_S._Richardson> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Cesare_Cremonini_(philosopher)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ioannis_Kottounios> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Branislav_Petronijević> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Justin_Oakley> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Leonardo_Polo> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/C._H._Douglas> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Graham_Harman> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Francis_Fukuyama> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Giovanni_Pico_della_Mirandola> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Posidonius> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Thomas_Cajetan> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Martha_Nussbaum> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Nikolai_Fyodorov_(philosopher)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Monaldo_Leopardi> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Raphael_Woolf> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mortimer_J._Adler> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Peter_Kreeft> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Placidus_de_Titis> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Matthew_of_Aquasparta> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mary_Midgley> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Butler_D._Shaffer> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Giovanni_Reale> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ioane_Petritsi> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hilail_Gildin> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Kenneth_L._Schmitz> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Boris_Groys> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Josef_Pieper> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Vladimir_Solovyov_(philosopher)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Pierre_Gassendi> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/John_M._Cooper_(philosopher)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mary_G._Dietz> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dirk_Baltzly> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ibn_Butlan> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Costanzo_Preve> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dimitris_Liantinis> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Strato_of_Lampsacus> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Heraclides_Lembus> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/W._D._Ross> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dominic_of_Flanders> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/History_of_astrology> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Syrianus> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Harry_Binswanger> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Julie_Favre> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Al-Tamimi_(physician)> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Sebastian_Rödl> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/James_W._Ceaser> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Constitutions_(Aristotle)> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Phaleas_of_Chalcedon> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gustav_Teichmüller> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Joachim_Ritter> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Nel_Noddings> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Sebastián_Izquierdo> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Charles_De_Koninck> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Carl_Menger> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Karl_Polanyi> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gustavo_Bueno> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Murray_Rothbard> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Charles_Taylor_(philosopher)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Jakob_Schegk> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Michael_Sandel> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Julia_Annas> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Lenn_E._Goodman> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Joseph_Owens_(Redemptorist)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Henry_S._Richardson> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Valerianus_Magnus> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ioannis_Kottounios> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Branislav_Petronijević> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Justin_Oakley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Leonardo_Polo> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/C._H._Douglas> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Graham_Harman> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Francis_Fukuyama> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Giovanni_Pico_della_Mirandola> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Harvey_Mansfield> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Posidonius> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Thomas_Cajetan> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Demetrios_Kydones> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Cesare_Cremonini_(philosopher)__Cesare_Cremonini__1> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Nikolai_Fyodorov_(philosopher)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Monaldo_Leopardi> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Raphael_Woolf> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mortimer_J._Adler> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Matthew_of_Aquasparta> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mary_Midgley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/George_Fitzhugh> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Butler_D._Shaffer> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Emanuele_Tesauro> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Giovanni_Reale> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ioane_Petritsi> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hilail_Gildin> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Kenneth_L._Schmitz> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Boris_Groys> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Josef_Pieper> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Vladimir_Solovyov_(philosopher)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Pierre_Gassendi> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/John_M._Cooper_(philosopher)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Mary_G._Dietz> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dirk_Baltzly> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Costanzo_Preve> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dimitris_Liantinis> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hugh_of_Saint_Victor> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Strato_of_Lampsacus> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Heraclides_Lembus> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/W._D._Ross> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hector_Zagal> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Jiyuan_Yu> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Martín_de_Azpilcueta> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Dominic_of_Flanders> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Syrianus> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Harry_Binswanger> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Julie_Favre> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Manuel_Chrysoloras> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Octavius_Freire_Owen> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/John_Corcoran_(logician)> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gustav_Teichmüller> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Allan_Gotthelf> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Raphael_Woolf> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Christopher_Shields> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Alan_Code> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ronna_Burger> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Amélie_Rorty> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hector_Zagal> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Karl_Bormann> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle_(Shields_book)> <http://dbpedia.org/ontology/nonFictionSubject> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle_for_Everybody> <http://dbpedia.org/ontology/nonFictionSubject> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Gemistos_Plethon> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle_(Shields_book)> <http://dbpedia.org/property/subject> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotle_for_Everybody> <http://dbpedia.org/property/subject> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristoteles_(crater)> <http://dbpedia.org/property/eponym> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Allan_Gotthelf> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Christopher_Shields> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Alan_Code> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ronna_Burger> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Amélie_Rorty> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Hector_Zagal> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Karl_Bormann> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/property/notableStudents> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Aristotelous_Square> <http://dbpedia.org/property/dedicatedTo> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Empiricism> <http://dbpedia.org/property/caption> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/History_of_gravitational_theory> <http://dbpedia.org/property/caption> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/W._F._R._Hardie> <http://dbpedia.org/property/subDiscipline> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Stephen_Halliwell_(classicist)> <http://dbpedia.org/property/subDiscipline> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Stagira_(ancient_city)> <http://dbpedia.org/property/occupants> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Assos> <http://dbpedia.org/property/occupants> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Apophantic> <http://purl.org/linguistics/gold/hypernym> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/On_the_Heavens> <http://purl.org/linguistics/gold/hypernym> <http://dbpedia.org/resource/Aristotle> .
+<http://en.wikipedia.org/wiki/Aristotle> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Aristotle> .

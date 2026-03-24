@@ -1,0 +1,17 @@
+facts:
+  - "<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Heraklion> ."
+  - "<http://dbpedia.org/resource/Nikos_Kazantzakis> <place> <http://dbpedia.org/resource/Heraklion> ."
+  - "<http://www.wikidata.org/entity/Q214622> <http://schema.org/nationality> \"Greece\" ."
+  - "<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Footballer> ."
+  - "<http://dbpedia.org/resource/Nikos_Zisis> <http://dbpedia.org/ontology/birthYear> \"1983\" ."
+  - "<http://dbpedia.org/resource/Michalis_Mountantonakis> <http://dbpedia.org/ontology/birth> \"1992\" ."
+  - "<http://dbpedia.org/resource/Nikos_Kazantzakis> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Writer> ."
+
+KG: "DBpedia"     # Options: \"DBpedia\", \"LODsyndesis\", \"Both\"  #Select only one value for KG: LODsyndesis, Both, DBpedia
+                  #Both includes current DBpedia version and LODsyndesis
+                  #DBpedia includes only the current DBpedia version
+                  #LODsyndesis includes only LODsyndesis
+topK: 3           # Integer, for returning the top-K facts
+threshold: 0.65     # Validation threshold
+maxTriples: 800   #number of maxTriples for embeddings
+
