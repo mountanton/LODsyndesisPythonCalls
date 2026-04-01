@@ -11,7 +11,7 @@ dbpedia_spotlight:
 
 wat:
   url: "https://wat.d4science.org/wat/tag/tag"
-  gcube_token: ""
+  gcube_token: "9009f789-ced6-4b29-b39f-717675f077f4-843339462"
   rho_threshold: 0.1
   lang: "en"
   enabled: true
