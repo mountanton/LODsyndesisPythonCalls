@@ -1,0 +1,20 @@
+tool: "spotlight" #spotlight or wat
+
+text: "Mahi-mahi (or Coryphaena hippurus) live in the ocean"
+
+dbpedia_spotlight:
+  url: "https://api.dbpedia-spotlight.org/en/annotate"
+  confidence: 0.6     
+  headers:
+    Accept: "application/json"
+  enabled: true
+
+wat:
+  url: "https://wat.d4science.org/wat/tag/tag"
+  gcube_token: ""
+  rho_threshold: 0.1
+  lang: "en"
+  enabled: true
+
+output:
+  file: "entities_output.json"
